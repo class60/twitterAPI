@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>API</label>
+		<id>7</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>API.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>API.jcp</path>
+		</project>
+	</projects>
+</workspace>
